@@ -26,6 +26,7 @@ Niraant is a personal organizer and secure digital vault designed specifically f
 For transparency and compliance, we maintain our legal documentation publicly:
 
 *   **[Privacy Policy](PRIVACY.md)**: Details how we protect and handle your personal data.
+*   **[Terms & Conditions](TERMS.md)**: Rules and regulations for using the Niraant application.
 *   **Support & Queries**: For help, feedback, or account deletion requests, reach out to us at [niraantapp@gmail.com](mailto:niraantapp@gmail.com).
 
 ---
